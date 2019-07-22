@@ -2,6 +2,7 @@
 *.dta
 *.jpg
 *.xlsx
+*.zip
 1keyboard-shortcuts.ipynb
 3 funciones utiles.ipynb
 reading-csv-solutions.ipynb
